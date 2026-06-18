@@ -6,7 +6,7 @@
 
 ## Business Context
 
-Employee attrition is one of the most expensive and disruptive problems an organisation can face. Replacing a single employee costs an estimated 50–200% of their annual salary when you factor in recruitment, onboarding, and lost productivity. This project uses IBM's HR Analytics dataset to identify the hidden patterns behind who leaves — and why.
+Employee attrition is one of the most expensive and disruptive problems an organisation can face. Replacing a single employee costs an estimated 50–200% of their annual salary when you factor in recruitment, onboarding, and lost productivity. This project uses IBM's HR Analytics dataset to identify the hidden patterns behind who leaves and why.
 
 The analysis goes beyond simple attrition counts. Using K-Means clustering and logistic regression, I segmented the workforce into four distinct profiles and ranked the factors that drive each group's attrition risk. The goal is to give HR teams an evidence-based foundation for targeted retention strategies.
 
