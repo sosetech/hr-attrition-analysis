@@ -64,13 +64,13 @@ Three-page interactive dashboard built in Power BI Desktop covering executive su
 
 ## Dashboard Preview
 
-### Page 1 — Executive Summary
+### Page 1: Executive Summary
 ![Executive Summary](page1_executive_summary.png)
 
-### Page 2 — Segment Analysis
+### Page 2: Segment Analysis
 ![Segment Analysis](page2_segment_analysis.png)
 
-### Page 3 — Risk Drivers & Recommendations
+### Page 3: Risk Drivers & Recommendations
 ![Risk Drivers](page3_risk_drivers.png)
 
 ---
@@ -79,7 +79,7 @@ Three-page interactive dashboard built in Power BI Desktop covering executive su
 
 | Priority | Recommendation | Target Group |
 |---|---|---|
-| High | Cap mandatory overtime — OT workers leave at 3x the rate of non-OT | Sales, HR departments |
+| High | Cap mandatory overtime. OT workers leave at 3x the rate of non-OT | Sales, HR departments |
 | High | Introduce transparent promotion timelines and mentorship | 18-25 age cohort |
 | High | Act immediately on Satisfaction Level 1 and 2 scores | All departments |
 | Medium | Benchmark Sales Rep salaries against market rates | Sales Representatives |
