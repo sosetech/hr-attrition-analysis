@@ -17,7 +17,7 @@ The analysis goes beyond simple attrition counts. Using K-Means clustering and l
 **Source:** [IBM HR Analytics Employee Attrition Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset) — Kaggle  
 **Size:** 1,470 employees × 35 features  
 **Period:** Cross-sectional (single snapshot)  
-**Target variable:** Attrition (Yes/No) — 237 leavers (16.1%)  
+**Target variable:** Attrition (Yes/No), 237 leavers (16.1%)  
 **Features include:** Age, Department, Job Role, Monthly Income, Job Satisfaction, Environment Satisfaction, Work-Life Balance, Overtime, Years at Company, Business Travel, and more
 
 ---
